@@ -1,5 +1,7 @@
 import pygame as pg
 
+pg.init()
+
 window = pg.display.set_mode((300, 300))
 
 pg.display.set_caption("Average 10 level platformer")
