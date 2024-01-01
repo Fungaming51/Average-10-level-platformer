@@ -1,3 +1,5 @@
 An average 10 level side-scroller platformer
 
--[x]
+-[ ] base game stuff (player controls and level changing)
+-[ ] enemy
+-[ ] extra stuff
