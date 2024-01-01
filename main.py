@@ -11,7 +11,9 @@ running = True
 while running:
 
     for event in pg.event.get():
+        print("running")
         if event.type == pg.QUIT:
             running = False
+            print("exit")
 
             pg.quit()
